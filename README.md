@@ -1,5 +1,13 @@
 # up221-dominique
-me and a very large leaf:
-![IMG_4250](https://user-images.githubusercontent.com/122651853/212438444-30b87755-9c75-413c-a3e7-926fe098aa0d.JPG)
 
-UP221: Introduction to GIS and Spatial Data Science
+## about me
+- 1st year MURP, design and development
+- 1.5 gen filipino-chinese american
+- grew up on guam
+- undergrad at virginia, studied environmental science and urban/environmental planning
+- professional background
+- academic interests: 
+
+## course objectives
+
+## project ideas
