@@ -19,6 +19,8 @@
   - making space for connection and reflection, giving and receiving caring feedback
   - planning in service of organizing
 
+![Dom_Ong_Bio_Photo2](https://user-images.githubusercontent.com/122651853/212591784-9f298b1b-935e-44ad-af1f-746c7de5ebac.png)
+
 ### About Silly Me
 - grew up on guam
 - 1.5 gen filipino-chinese
@@ -27,8 +29,6 @@
   - hiking, camping, gardening
   - sewing  
   - cooking, baking
-
-![Dom_Ong_Bio_Photo2](https://user-images.githubusercontent.com/122651853/212591784-9f298b1b-935e-44ad-af1f-746c7de5ebac.png)
 
 ### Course Learning Goals
 - Use Python and other data science tools to prepare data for research
