@@ -28,7 +28,11 @@
   - sewing  
   - cooking, baking
 
-### course objectives
+### Course Learning Goals
+- Use Python and other data science tools to prepare data for research
+- Learn to conduct spatial analysis and modeling using Python and other data science tools
 
-### project ideas
+As part of my undergrad coursework, I learned how to make maps with “off-the-shelf” programs, such as ESRI’s ArcGIS platform and ENVI. Although these programs are considered the “industry standard,” they are inaccessible to community organizations with limited financial and technical capacity. I am deepening my involvement in research done by the community for the community, so I want to learn how to use more accessible data-science tools to produce tables, charts, and maps.
+
+### Project Ideas
 
