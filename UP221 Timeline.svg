@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Policy_Incentives" data-name="Policy Incentives" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1152 648">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-9, .cls-10 {
+        fill: #ec2426;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-10 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-13 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-14 {
+        font-family: RocGrotesk-WideBold, 'Roc Grotesk';
+        font-size: 17.85px;
+        font-weight: 700;
+      }
+
+      .cls-14, .cls-15 {
+        fill: #231f20;
+      }
+
+      .cls-15 {
+        font-family: RocGrotesk-WideMedium, 'Roc Grotesk';
+        font-size: 14px;
+        font-weight: 500;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-18 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-20 {
+        letter-spacing: 0em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.03em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-9" y="218.54" width="1152" height="19.6"/>
+  <text class="cls-15" transform="translate(59.94 262.76)"><tspan x="0" y="0">Cornfield Arr</tspan><tspan class="cls-3" x="116.65" y="0">oy</tspan><tspan x="136.71" y="0">o Seco </tspan><tspan x="14.58" y="16.8">Specific Plan (</tspan><tspan class="cls-3" x="131.55" y="16.8">C</tspan><tspan class="cls-7" x="143.17" y="16.8">A</tspan><tspan x="156.4" y="16.8">SP)</tspan></text>
+  <circle class="cls-10" cx="159.27" cy="226.79" r="10.65"/>
+  <text class="cls-14" transform="translate(130.71 208.41)"><tspan x="0" y="0">2013</tspan></text>
+  <circle class="cls-10" cx="995.62" cy="228.65" r="10.65"/>
+  <text class="cls-14" transform="translate(967.06 208.41)"><tspan x="0" y="0">2022</tspan></text>
+  <text class="cls-15" transform="translate(946.06 262.76)"><tspan x="0" y="0">2021-2029 </tspan><tspan x="-24.34" y="16.8">General Use Plan </tspan><tspan x="-21.57" y="33.6">Housing Element</tspan></text>
+  <circle class="cls-10" cx="572.12" cy="227.49" r="10.65"/>
+  <text class="cls-14" transform="translate(543.56 208.41)"><tspan x="0" y="0">2017</tspan></text>
+  <text class="cls-15" transform="translate(507.23 262.76)"><tspan class="cls-17" x="0" y="0">T</tspan><tspan x="9.24" y="0">enant Bu</tspan><tspan class="cls-2" x="86.02" y="0">y</tspan><tspan x="95.94" y="0">out </tspan><tspan x="-25.61" y="16.8">N</tspan><tspan class="cls-11" x="-12.77" y="16.8">o</tspan><tspan x="-2.2" y="16.8">tifi</tspan><tspan class="cls-21" x="20.37" y="16.8">c</tspan><tspan x="30.03" y="16.8">ation Pr</tspan><tspan class="cls-18" x="98.43" y="16.8">o</tspan><tspan x="108.93" y="16.8">gram</tspan></text>
+  <circle class="cls-10" cx="365.69" cy="227.49" r="10.65"/>
+  <text class="cls-14" transform="translate(337.13 208.41)"><tspan x="0" y="0">2016</tspan></text>
+  <text class="cls-15" transform="translate(292.42 262.76)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan class="cls-19" x="10.08" y="0">ransit Orien</tspan><tspan class="cls-8" x="113.55" y="0">t</tspan><tspan x="121.02" y="0">ed </tspan><tspan x="15.46" y="16.8">Communities </tspan><tspan x="9.79" y="33.6">(</tspan><tspan class="cls-13" x="14.52" y="33.6">T</tspan><tspan class="cls-19" x="24.48" y="33.6">OC) Pr</tspan><tspan class="cls-18" x="79.79" y="33.6">o</tspan><tspan x="90.29" y="33.6">gram</tspan></text>
+  <text class="cls-14" transform="translate(749.98 208.41)"><tspan x="0" y="0">2020</tspan></text>
+  <circle class="cls-10" cx="778.54" cy="227.49" r="10.65"/>
+  <text class="cls-15" transform="translate(687.41 262.76)"><tspan x="0" y="0">C</tspan><tspan class="cls-12" x="12.18" y="0">O</tspan><tspan x="24.42" y="0">VID-19 Eme</tspan><tspan class="cls-1" x="121.73" y="0">r</tspan><tspan class="cls-2" x="131.15" y="0">g</tspan><tspan class="cls-16" x="141.26" y="0">en</tspan><tspan class="cls-6" x="162.31" y="0">c</tspan><tspan class="cls-20" x="171.78" y="0">y</tspan><tspan class="cls-5" x="3.49" y="16.8">E</tspan><tspan x="13.41" y="16.8">vi</tspan><tspan class="cls-11" x="28.01" y="16.8">c</tspan><tspan x="37.91" y="16.8">tion Mora</tspan><tspan class="cls-8" x="120.6" y="16.8">t</tspan><tspan x="128.06" y="16.8">orium</tspan></text>
+</svg>
